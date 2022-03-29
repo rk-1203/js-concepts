@@ -1,0 +1,21 @@
+.btn.x {
+    color: #000;
+}
+
+table {
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}  
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.blue {background-color: blue;} 
+
+
+.red {background-color: red;} 
